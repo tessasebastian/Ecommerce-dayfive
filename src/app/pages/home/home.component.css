@@ -1,0 +1,593 @@
+.main{
+    background-color: #fff;
+   overflow-x: hidden;
+}
+.navbar
+{
+    font-size: 15px;
+   /* margin-bottom:45px;*/
+    background-color: /*red;*/#fff;
+    width:1600px;
+    font-weight: bold;
+    display: flex;
+    gap: 20px;
+}
+#namesun
+{
+    margin-left: 210px;
+    margin-top: -25px;
+}
+
+#namemoist
+{
+    margin-top: -240px;
+    margin-left: 8px;
+}
+
+#namelip
+{
+    margin-top: -25px;
+    margin-left: 420px;
+}
+
+#namesham
+{
+    margin-top: -25px;
+    margin-left: 620px;
+}
+
+#nameface
+{
+    margin-top: -25px;
+    margin-left: 820px;
+}
+
+#namefound
+{
+    margin-top: -25px;
+    margin-left: 1020px;
+}
+
+#nameserum
+{
+    margin-top: -25px;
+    margin-left: 1235px;
+}
+
+#input
+{
+    background: transparent;
+    border-style: none;
+}
+.contact
+{
+    margin-top:50px;
+    font-family: Inter, Roboto, Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#mail{
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+
+.shop-btn
+{
+    margin-top:100px;
+    color: #fff;
+    border-radius: 15px;
+    height: 52px;
+    background-color: deeppink;
+    margin-left:100px;
+    border-style: none;
+    margin-right:100px;
+}
+
+#navto
+{
+     margin-right: 650px;
+    margin-block-start: inherit;
+    border-style: none;
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 3800px;
+   
+}
+
+#foundation
+{
+    margin-left: 290px;
+    margin-top: -225px;
+}
+
+#supersavings
+{
+    margin-left: 590px;
+    margin-top: -225px;
+}
+
+#skincare
+{
+    margin-left: 890px;
+    margin-top: -225px;
+}
+
+#hanging
+{
+    margin-left: -150px;
+}
+
+#insideoutbeauty
+{
+    height: 260px;
+    width: 260px;
+}
+
+#haircare
+{
+    margin-left: 1190px;
+    margin-top: -225px;   
+}
+
+#crd2
+{
+    margin-left: 250px;
+    margin-top: -345px;
+    width: 223px;
+    height: 311px;
+}
+
+#crd3
+{
+    margin-left: 470px;
+    margin-top: -345.9px;
+    width: 223px;
+    height: 311px;
+}
+
+#crd4
+{
+    margin-left: 690px;
+    margin-top: -347px;
+    width: 223px;
+    height: 311px;
+}
+
+#crd5
+{
+    margin-left: 910px;
+    margin-top: -347px;
+    width: 223px;
+    height: 311px;
+}
+
+#crd6
+{
+    margin-left: 1129px;
+    margin-top: -348.5px;
+    width: 223px;
+    height: 311px;
+}
+
+#viobg
+{
+    width:1550px;
+    background-color: #e5e2fe;
+    margin-right: 50px;;
+
+}
+
+.products
+{
+    background-color: #e5e2fe;
+   margin-left: 50px;
+}
+
+.card{
+    background-color: #e5e2fe;
+    border-style: none;
+
+}
+
+#crd1
+{
+    margin-top: -3px;
+    margin-left: 30px;
+    width: 223px;
+    height: 311px;
+}
+
+
+.home-pg
+{
+   margin-top:40px;
+}
+
+.navbar-nav
+{
+    background-color:  /*red*/#fff;
+    margin-bottom: 10px;
+
+}
+
+.nykalog
+{
+    width:200px;
+    /*margin-bottom:40px;*/
+    height:350px;
+    margin-bottom:20px;
+    background-color: red;
+    margin-left:50px;
+}
+
+#moisturiser
+{
+    margin-top:10px;
+    margin-right:10px;
+}
+
+#sunscreen
+{
+    margin-left: 200px;
+    margin-top: -245px;
+}
+
+#lipstick
+{
+    margin-top: -325px;
+    margin-left: 400px;
+}
+
+#shampoo
+{
+    margin-top: -410px;
+    margin-left: 600px;
+}
+
+#foundationn
+{
+    margin-top: -565px;
+    margin-left: 1005px;
+}
+
+#serum
+{
+    margin-top: -650px;
+    margin-left: 1200px;
+
+}
+
+#facewash
+{
+    margin-top: -485px;
+    margin-left: 800px;
+}
+
+.pink
+{
+    width:1600px;
+    height:100px;
+    background-color: pink;
+}
+
+.help
+{
+    background-color: rgb(140, 141, 148);
+    margin-top:0px;
+    height:350px;
+    font-family: Inter, Roboto, Arial, sans-serif;
+}
+
+.nav-main
+{
+    background-color: #fff;
+}
+
+#para
+{
+    margin-bottom: -25px;
+    margin-left: 170px;
+}
+.navbartwo 
+{
+    font-weight:lighter;
+    margin-left: 150px;
+ /*   letter-spacing: 1px;*/
+    font-family: sans-serif;
+    color: rgba(3, 2, 26, 0.6);
+    padding: 10px;
+    word-spacing: 5px;
+    padding-bottom:25px;
+}
+
+hr{
+    margin-top: -15px;
+}
+.navbar navbar-expand-lg bg-body-tertiary
+{
+    margin-top:-1px;
+}
+.container-fluid
+{
+    background-color: #fff;
+    width:100%;
+    height: 80px;
+}
+
+.btn
+{
+      margin-left: 5px;
+}
+
+.logo {
+        display: flex;
+        /*align-items: center;*/
+        
+      }
+      
+.logo-svg {
+        width: 100px; /* Adjust the width as needed */
+        height: auto;
+        margin-left:370px;
+        margin-left:150px;
+  }
+  #animg
+  {
+    background-color: #e5e2fe;
+  }
+
+  .d-flex
+  {
+      margin-left:190px;
+  }
+
+  .bi
+  {
+      margin-left: 30px;
+      margin-top: 10px;
+  }
+      
+      /* If you need to add padding/margin to align it within the navbar */
+.logo
+ {
+        padding: 5px;
+        margin-left: 70 10px;
+  }
+
+  #shopcat
+  {
+    margin-left: -195px;
+    margin-top: 50px;
+  }
+
+  #makeupp
+  {
+    margin-left: 15px;
+    margin-top: 100px;
+    border-radius: 15px;
+  }
+
+  #skinn
+  {
+    margin-left: 372.5px;
+    margin-top: -405px;
+    border-radius: 15px;
+  }
+
+  #hairr
+  {
+    margin-left: 722.5px;
+    margin-top: -485px;
+    border-radius: 15px;
+  }
+
+  #accessoriess
+  {
+    margin-left: 1077.5px;
+    margin-top: -565px;
+    border-radius: 15px;
+  }
+
+  #makeuup
+  {
+    margin-top: -110px;
+    margin-left: 110px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+
+  #skiin
+  {
+    margin-top: -40px;
+    margin-left: 510px;
+    font-weight: bolder;
+    font-size: 20px;
+ }
+
+  #haiir
+  {
+    margin-top: -40px;
+    margin-left: 870px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+
+  #accessoriees
+  {
+    margin-top: -45px;
+    margin-left: 1190px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+
+  #luxee
+  {
+    margin-left: 200px;
+    border-radius: 15px;
+    margin-top: 50px;
+  }
+
+  #fragrancee
+  {
+    margin-left: 560px;
+    border-radius: 15px;
+    margin-top: -400px;
+  }
+
+  #wellnesss
+  {
+    margin-left: 915px;
+    border-radius: 15px;
+    margin-top: -480px;
+  }
+
+  #luxxe
+  {
+    margin-left: 300px;
+    margin-top: -70px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  #fragrancce
+  {
+    margin-left: 630px;
+    margin-top: -30px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  #wellneess
+  {
+    margin-left: 995px;
+    margin-top: -30px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+
+  .footer-section {
+    background-color: #343a40; /* Dark gray color */
+    color: #fff; /* White text */
+    padding: 20px 0;
+    margin-top:100px;
+  }
+  .footer-section .content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .footer-section .content-wrapper div {
+    display: flex;
+    align-items: center;
+  }
+  .footer-section .icon-text {
+    margin-right: 20px;
+  }
+  .footer-section .icon-text i {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  .footer-section .newsletter-form {
+    display: flex;
+    align-items: center;
+  }
+  .footer-section .newsletter-form input[type="email"] {
+    padding: 5px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    margin-right: 10px;
+  }
+  .footer-section .newsletter-form input[type="submit"] {
+    background-color: #fff;
+    border: none;
+    color: #343a40;
+    padding: 5px 15px;
+    cursor: pointer;
+  }
+  .footer-section .app-links img {
+    height: 40px;
+    margin-left: 10px;
+  }
+  .footer-section .help-contact {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  .footer-section .help-contact p {
+    margin: 0;
+  }
+  .footer-section .help-contact p:first-child {
+    font-weight: bold;
+  }
+
+  .custom-footer {
+    background-color: #8b8b8b; /* Adjusted background color to match the image */
+    color: white;
+    padding: 30px 0; /* Adjusted padding */
+  }
+  .custom-footer .footer-title {
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 18px; /* Adjusted font size for headings */
+  }
+  .custom-footer a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px; /* Adjusted font size for links */
+  }
+  .custom-footer a:hover {
+    text-decoration: underline;
+  }
+  .custom-footer .footer-logo {
+    margin-bottom: 20px; /* Added margin below the logo */
+  }
+
+
+  .custom-footer-top {
+    background-color: #F5F5F5; /* Adjust background color to match */
+    padding: 20px 0;
+  }
+  .custom-footer-top .icon-text {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .custom-footer-top .icon-text i {
+    font-size: 30px;
+    color: #E91E63; /* Pink color for icons */
+  }
+  .custom-footer-top .icon-text p {
+    margin-top: 10px;
+    color: #333;
+  }
+  .custom-footer-mid {
+    background-color: #E91E63; /* Pink section */
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+  }
+  .custom-footer-bottom {
+    background-color: #F5F5F5; /* Adjust background color */
+    padding: 20px 0;
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+  }
+  .custom-footer-bottom .footer-links a {
+    color: #666;
+    margin-right: 15px;
+    text-decoration: none;
+  }
+  .custom-footer-bottom .footer-links a:hover {
+    text-decoration: underline;
+  }
